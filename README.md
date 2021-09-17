@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bephial
 - 👀 I’m interested in books, computers, photograph
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning pythony
 - 📫 How to reach me: netzpost@lugiland.de
 
 <!---
